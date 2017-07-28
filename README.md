@@ -1,2 +1,2 @@
 # OCTEON-SDK
-OCTEON Open Source SDk
+OCTEON Open Source SDK
